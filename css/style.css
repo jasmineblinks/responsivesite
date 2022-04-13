@@ -153,7 +153,17 @@ p {
 .image-col {
   width: 60%;
 }
-
+.content-col h1 {
+  font-size: 7vmin;
+  color: #49497e;
+}
+.content-col .line {
+  margin-left: -1px;
+}
+.content-col p {
+  padding: 0;
+  margin: 30px auto;
+}
 .tours .image-gallery {
   display: flex;
   flex-wrap: wrap;
